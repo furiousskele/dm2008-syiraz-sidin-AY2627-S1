@@ -16,7 +16,7 @@ We built a Pong game - except that for each subsequent round, players will have 
 
 ![screenshot](readme-assets/screenshot-01.jpg)
 
-![screenshot[(readme-assets/screenshot-02.jpg)
+![screenshot](readme-assets/screenshot-02.jpg)
 
 <!-- Drop a screenshot or GIF of your finished project.
      Save it to a readme-assets/ folder inside this project folder.
