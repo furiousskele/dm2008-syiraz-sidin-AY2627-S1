@@ -22,6 +22,12 @@ We built a Pong game - except that for each subsequent round, players will have 
      Save it to a readme-assets/ folder inside this project folder.
      Got more than one good screenshot? Add them. -->
 
+
+
+[Watch Here](https://github.com/furiousskele/dm2008-syiraz-sidin-AY2627-S1/blob/main/dm2008-syiraz-sidin-AY2627-S1/02-mini-project/readme-assets/screen-recording-01.mp4)
+
+
+
 [Watch Online](https://your-link-here)
 
 <!-- Replace the link above with a URL to a screen recording or video of your project.
