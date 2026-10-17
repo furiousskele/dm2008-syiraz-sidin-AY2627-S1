@@ -28,7 +28,7 @@ For this week's activity, we learnt the basics of Arduinos, breadboards, and C++
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/week9-activity-8a.jpg)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
