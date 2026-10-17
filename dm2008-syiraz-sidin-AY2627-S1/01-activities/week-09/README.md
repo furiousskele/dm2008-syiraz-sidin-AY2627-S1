@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `8a`     | <!-- `An always on LED, a blinking LED, and a fading LED.` --> |
-| `8b`     | <!-- `An LED that turns off when an ultrasonic sensor detects something too close to itself.` --> |
+| `8a`     | An always on LED, a blinking LED, and a fading LED. |
+| `8b`     | An LED that turns off when an ultrasonic sensor detects something too close to itself. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
