@@ -36,6 +36,8 @@ Activity 8a-01 - Always On LED
 [Activity 8a-02 - Blinking LED](https://drive.google.com/file/d/1cwq5vp8AFk7_-R9rcIdEcHd61FPOSpfJ/view?usp=drive_link)
 
 [Activity 8a-03 - Fading LED](https://drive.google.com/file/d/1WhVKdpepTDdDwh9Lm_kbenfPgKFxLk4C/view?usp=drive_link)
+
+[Activity 8b - Proximity-Sensitive LED](https://drive.google.com/file/d/1nkcXE1i3sk94VMO_b86lItt2qSiGijx-/view?usp=drive_link)
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->
