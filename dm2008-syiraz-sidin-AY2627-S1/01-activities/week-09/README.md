@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `8a`     | <!-- An always on LED, a blinking LED, and a fading LED. --> |
-| `8b`     | <!-- An LED that turns off when an ultrasonic sensor detects something too close to itself. --> |
+| `8a`     | <!-- `An always on LED, a blinking LED, and a fading LED.` --> |
+| `8b`     | <!-- `An LED that turns off when an ultrasonic sensor detects something too close to itself.` --> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -29,6 +29,8 @@ For this week's activity, we learnt the basics of Arduinos, breadboards, and C++
 ### Output
 
 ![screenshot](readme-assets/week9-activity-8a.jpg)
+
+[Activity 8a-02](https://drive.google.com/file/d/1cwq5vp8AFk7_-R9rcIdEcHd61FPOSpfJ/view?usp=drive_link)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
