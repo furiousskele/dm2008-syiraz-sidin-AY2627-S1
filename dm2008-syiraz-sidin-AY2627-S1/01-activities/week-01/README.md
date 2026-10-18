@@ -30,7 +30,7 @@ We went through the very basics of P5js fundamentals such as how to use it, as w
 
 ![screenshot](readme-assets/activity1a.jpg)
 
-![Activity-1b](https://github.com/user-attachments/assets/5dd17007-3d7e-43b4-8920-3411a920abdb)
+<video src = 'https://github.com/user-attachments/assets/5dd17007-3d7e-43b4-8920-3411a920abdb'>
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
