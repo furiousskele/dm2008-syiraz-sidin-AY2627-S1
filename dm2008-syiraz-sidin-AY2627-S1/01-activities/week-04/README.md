@@ -1,4 +1,4 @@
-# Week 1 — Introduction to Creative Coding
+# Week 4 — Object-oriented Programming (Part I)
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | A graphic illustration of a cat made using Javascript. |
-| `1b`     | A sketch where random coloured squares will appear rapidly, and a red line connecting the center of the screen and the mouse cursor will appear. |
+| `1a`     | A small cookie orbiting around a bigger cookie, and clicking left moues button will randomise the classes of the cookies and therefore their colours.. |
+| `1b`     |  |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -22,15 +22,21 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
-We went through the very basics of P5js fundamentals such as how to use it, as well as the reason behind learning to code and some basis fundamentals of code such as variables, etc.
+We delved into Object-Oriented Programming asepct of Javscript, which allowed us to create more advanced sketches by allowing us to dynamically create objects and their associates properties and values. We also learnt to put objects into arrays and how to remove objects when a condition is met.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/activity1a.jpg)
 
-<video src = 'https://github.com/user-attachments/assets/5dd17007-3d7e-43b4-8920-3411a920abdb'>
+
+https://github.com/user-attachments/assets/a7186fec-fef4-4918-9e52-d4c978719eca
+
+
+
+https://github.com/user-attachments/assets/f0fbfbd1-0c21-4236-b9b8-4bd8607c78c4
+
+
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
