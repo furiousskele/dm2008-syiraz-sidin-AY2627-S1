@@ -11,7 +11,7 @@
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
 | `1a`     | A small cookie orbiting around a bigger cookie, and clicking left moues button will randomise the classes of the cookies and therefore their colours.. |
-| `1b`     |  |
+| `1b`     | A 3x3 grid of particles with sub-particles orbiting them, and pressing left mouse button generates a new particle at the mouse cursor's position. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
