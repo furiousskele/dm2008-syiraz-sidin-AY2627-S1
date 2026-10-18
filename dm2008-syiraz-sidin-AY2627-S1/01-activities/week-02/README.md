@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 2 — Control Flows and Interactivity
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -26,7 +26,9 @@
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+<video src ='https://github.com/user-attachments/assets/6f72b8a0-4ea2-4f93-b858-a39116c58327'>
+
+<video src ='https://github.com/user-attachments/assets/c7e3b710-605a-47d2-b1ef-f6451a5e0dc0'>
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
