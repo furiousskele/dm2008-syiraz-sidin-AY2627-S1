@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | A graphic illustration of a cat made using Javascript. |
-| `1b`     | A sketch where random coloured squares will appear rapidly, and a red line connecting the center of the screen and the mouse cursor will appear. |
+| `1a`     | A sketch where a fading line will route through an array of points, and pressing left mouse button will add an additional point to the array. |
+| `1b`     | A sketch where pressing left mouse button will generate a shape of orbiting dots around a central point that resemble a flower, and holding the left mouse button will slowly fade in and out the colours of the dots. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -22,15 +22,19 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
-We went through the very basics of P5js fundamentals such as how to use it, as well as the reason behind learning to code and some basis fundamentals of code such as variables, etc.
-
+We went through arrays and their fundamentals like adding and removing, as well as looping over and randomising arrays. Additionally, we learnt how to put in parameters into functions and animation tools such as transform/rotate and push and pop.
 ---
 
 ### Output
 
-![screenshot](readme-assets/activity1a.jpg)
+https://github.com/user-attachments/assets/b51b0591-8d0f-4988-8e30-2f2493d8814c
 
-<video src = 'https://github.com/user-attachments/assets/5dd17007-3d7e-43b4-8920-3411a920abdb'>
+
+
+https://github.com/user-attachments/assets/71060cbb-9700-49a8-b4b2-562a250a4864
+
+
+
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
