@@ -21,9 +21,11 @@
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
+     
+---
 
 We went through arrays and their fundamentals like adding and removing, as well as looping over and randomising arrays. Additionally, we learnt how to put in parameters into functions and animation tools such as transform/rotate and push and pop.
----
+
 
 ### Output
 
