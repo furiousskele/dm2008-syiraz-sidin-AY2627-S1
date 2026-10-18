@@ -26,9 +26,9 @@
 
 ### Output
 
-<video src ='https://github.com/user-attachments/assets/6f72b8a0-4ea2-4f93-b858-a39116c58327'>
+<video src ='https://github.com/user-attachments/assets/6f72b8a0-4ea2-4f93-b858-a39116c58327'><video>
 
-<video src ='https://github.com/user-attachments/assets/870788c5-0d2c-4da3-8212-9f93c26eb4ad'>
+<video src ='https://github.com/user-attachments/assets/870788c5-0d2c-4da3-8212-9f93c26eb4ad'><video>
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
