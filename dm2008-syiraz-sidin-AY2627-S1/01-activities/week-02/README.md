@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 2 — Control Flows and Interactivity
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,14 +10,16 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | A sketch where pressing '1', '2' and '3' changes the colours of the circles and the background, while pressing '2' stops the movement of the circle. |
+| `1b`     | A series of 3 rows of alternating circles between big and small, and pressing spacebar switches the colours of the rows.|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
 ---
 
 ### This Week
+
+We learnt how to use loops as well as conditionals to create interactive animations. Additionally, I experimented with using a easein function for the movement of the rows for smoother movement.
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
@@ -26,7 +28,9 @@
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+https://github.com/user-attachments/assets/6f72b8a0-4ea2-4f93-b858-a39116c58327
+
+https://github.com/user-attachments/assets/870788c5-0d2c-4da3-8212-9f93c26eb4ad
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
