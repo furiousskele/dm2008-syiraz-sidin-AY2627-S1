@@ -6,8 +6,8 @@
 
 ### The Project
 
-<!-- Our input system uses mouse clicks to randomly generate a population of plants, predators and prey. 
-Using the keyboard, the user can toggle between growing plants, prey or predator as well as the size of the population planted. This allows the user to alter the populations of plants, predator and prey to disrupt the balance of the ecosystem, causing it to deplete or regenerate. -->
+Our input system uses mouse clicks to randomly generate a population of plants, predators and prey. 
+Using the keyboard, the user can toggle between growing plants, prey or predator as well as the size of the population planted. This allows the user to alter the populations of plants, predator and prey to disrupt the balance of the ecosystem, causing it to deplete or regenerate.
 
 ---
 
@@ -28,9 +28,9 @@ Using the keyboard, the user can toggle between growing plants, prey or predator
 
 ### ✍️ Reflection
 
-<!-- Our project uses object oriented programming. The ecosystem is organized around the superclass of Living Thing which contains shared properties such as random movement and boundary checking that is inherited by each class of Predator, Prey and Plant. 
+Our project uses object oriented programming. The ecosystem is organized around the superclass of Living Thing which contains shared properties such as random movement and boundary checking that is inherited by each class of Predator, Prey and Plant. 
 
-A key system used is a grid based movement system where organisms move between cells using a destination-based random-walk algorithm, and population management systems that regulate feeding, hunting, reproduction and starvation. Each organism has individual attributes, such as hunger levels, movement ranges and lifespan, which determine its behaviour and survival. -->
+A key system used is a grid based movement system where organisms move between cells using a destination-based random-walk algorithm, and population management systems that regulate feeding, hunting, reproduction and starvation. Each organism has individual attributes, such as hunger levels, movement ranges and lifespan, which determine its behaviour and survival.
 
 ---
 
