@@ -25,6 +25,9 @@ This is a project where a 3D dog is displayed on the screen. It uses an ultrason
 
 ---
 
+### ✍️ Reflection
+The footage provided of the sketch is a simulation of using the ultrasonic sensor, as we unforunately forgot to take footage of us using the sensor to control the camera.
+
 <!-- ─────────────────────────────────────────────────────
      GOING FURTHER — want to document more? Try any of these:
 
