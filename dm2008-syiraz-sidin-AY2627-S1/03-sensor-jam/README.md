@@ -1,4 +1,4 @@
-# Sensor Jam — 3D Dog Orbiter
+# Sensor Jam — Who Let the Dogs Out
 
 <!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
 
@@ -6,7 +6,7 @@
 
 ### The Project
 
-<!-- This is a project where a 3D dog is displayed on the screen. It uses an ultrasonic distanc sensor to control the size of the dog model.. -->
+This is a project where a 3D dog is displayed on the screen. It uses an ultrasonic distanc sensor to control the size of the dog model.
 
 ---
 
