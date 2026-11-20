@@ -1,4 +1,4 @@
-# Week 1 — Introduction to Creative Coding
+# Week 5 — Object-Oriented Programming (Part II)
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | A graphic illustration of a cat made using Javascript. |
-| `1b`     | A sketch where random coloured squares will appear rapidly, and a red line connecting the center of the screen and the mouse cursor will appear. |
+| `5a`     | A sketch of two balls that bounce off the walls, and off each other and turn red when they do so. |
+| `5b`     | A sketch of pong. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -22,15 +22,23 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
-We went through the very basics of P5js fundamentals such as how to use it, as well as the reason behind learning to code and some basis fundamentals of code such as variables, etc.
+We learnt about how collisions work, and how using vectors and states inside classes can help facilitate this. Through learning this, we are able to make simple games that make use of collisions.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/activity1a.jpg)
 
-<video src = 'https://github.com/user-attachments/assets/5dd17007-3d7e-43b4-8920-3411a920abdb'>
+
+
+
+https://github.com/user-attachments/assets/893326f2-8fbb-4eff-a8bc-a7cf05a9d167
+
+
+
+https://github.com/user-attachments/assets/deb5b39f-d17b-4598-a405-59c7d889e8b2
+
+
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
